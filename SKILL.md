@@ -2,7 +2,7 @@
 name: remotion-beat-video
 description: "把小说/知识/博弈类选题做成 Remotion 卡点短视频（16:9 或 9:16，无配音，中英双语字幕，逐句卡在音乐拍点上）。含：音轨抽取与节拍分析、能量扫描选片段、按小节写剧本、纯 SVG 画面零件库、按调性合成音效、渲染与成片自检、封面三版与发布包、虚构 IP 的事实核实规范。关键词：Remotion 视频、卡点视频、抖音知识号、十日终焉、博弈局解说、米格-25效应、双锁铁盒、极乐钱庄、音乐踩点、逐帧渲染、SVG 动画、无 ffmpeg、WASM 解码"
 version: "1.0.0"
-author: "yyyyyy~ × DSH"
+author: "TYY123-as"
 created: "2026-10-16"
 updated: "2026-10-16"
 ---
