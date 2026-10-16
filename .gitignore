@@ -1,0 +1,28 @@
+# 渲染产物（大文件不入库）
+out/
+out_frames/
+frames/
+*.mp4
+*.mov
+*.webm
+
+# 音频（版权与体积原因都不入库）
+*.mp3
+*.wav
+*.flac
+*.m4a
+*.f32
+*.f32.json
+
+# 依赖
+node_modules/
+.pnpm-store/
+
+# Python
+__pycache__/
+*.pyc
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
